@@ -8,7 +8,7 @@ The plot_similarities.py takes the downloaded Spotify track data from a local CS
 
 Example: 
 
-image
+![Sample](/SampleSimMatrix.png)
 
 IMPORTANT:
 
