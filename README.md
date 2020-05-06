@@ -12,4 +12,4 @@ Example:
 
 IMPORTANT:
 
-This project is in EARLY stages of development, as I need more resources and personell to finish it, but improvements will be made regularly. Feel free to use Github or contact me by email at samherring99@gmai.com eith any questions! Happy coding!
+This project is in EARLY stages of development, as I need more resources and personell to finish it, but improvements will be made regularly. Feel free to use Github or contact me by email at samherring99@gmail.com with any questions! Happy coding!
